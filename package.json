@@ -1,0 +1,11 @@
+{
+  "name": "lao",
+  "version": "1.0.0",
+  "description": "a simple object getter for nested keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "minhajkhan75",
+  "license": "ISC"
+}
