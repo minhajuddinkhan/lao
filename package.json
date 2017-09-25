@@ -6,10 +6,26 @@
   "scripts": {
     "test": "./node_modules/,bin/mocha --reporter spec"
   },
+  "respository": {
+    "type": "git",
+    "url": "git+https://github.com/minhajuddinkhan/lao.git"
+  },
   "author": "minhajkhan75",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.1.2",
     "mocha": "^3.5.3"
-  }
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "objects",
+    "lodash",
+    "get",
+    "object",
+    "nested",
+    "keys",
+    "javascript",
+    "es6"
+  ]
 }
