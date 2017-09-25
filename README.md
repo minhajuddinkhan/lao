@@ -1,5 +1,8 @@
 # laoo
 
+```$ npm i laoo -S ```
+
+
 Fetches your desired key even if its deep down somewhere. 
 
 ```javascript
